@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="innercontents">
+            <h1>Pharmacology Internal Assessment Result</h1>
+            <form>
+                <div class="inputContent">
+                    <label for="Rollno">Roll no:</label>
+                    <input type="number" id="Rollno">
+                </div>
+                <button>Check</button>
+            </form>
+            <div class="result hideContent">
+                <div id="name" class="manager">
+                    <label>Name:</label>
+                    <div class="outputName"></div>
+                </div>
+                <div id="marks" class="manager">
+                    <label>Marks Obtained:</label>
+                    <div class="outputMarks"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./app.js"></script>
+</body>
+
+</html>
