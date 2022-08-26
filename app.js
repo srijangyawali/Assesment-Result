@@ -5,7 +5,7 @@ const data = [
   { name: "Chandra Bd. Budha", rollNo: 342, marks: 15 },
   { name: "Sushila Regmi", rollNo: 360, marks: 15 },
   { name: "Bhumika Ghimire", rollNo: 340, marks: 14 },
-  { name: "Modossir Hussain...", rollNo: 349, marks: 13 },
+  { name: "Modassir Hussain", rollNo: 349, marks: 13 },
   { name: "Ikita Basnet", rollNo: 344, marks: 15 },
   { name: "Sushmita Adhikari", rollNo: 362, marks: 16 },
   { name: "Indira Ghising", rollNo: 345, marks: 16 },
@@ -16,12 +16,12 @@ const data = [
   { name: "Sujit Kr. Yadav", rollNo: 367, marks: 11 },
   { name: "Barsha Kandel", rollNo: 339, marks: 16 },
   { name: "Nisha Khakurel", rollNo: 351, marks: 14 },
-  { name: "Ravi Raj...", rollNo: 355, marks: 16 },
+  { name: "Ravi Raj Adhikari", rollNo: 355, marks: 16 },
   { name: "Abhay K. Shrivastav", rollNo: 338, marks: 15 },
   { name: "Dipesh Yadav", rollNo: 343, marks: 16 },
   { name: "Japendra Thapa", rollNo: 346, marks: 14 },
   { name: "Lalah Kumar Sah", rollNo: 365, marks: 12 },
-  { name: "Sam....", rollNo: 357, marks: 13 },
+  { name: "Samindra Bahadur Dhami", rollNo: 357, marks: 13 },
   {
     name: "Priyank Subedi",
     rollNo: 354,
@@ -30,7 +30,7 @@ const data = [
   { name: "Bibek Shrestha", rollNo: 341, marks: 17 },
   { name: "Madan Pokhrel", rollNo: 348, marks: 13 },
   { name: "Rojina Shrestha", rollNo: 356, marks: 10 },
-  { name: "Suprana Thapa", rollNo: 359, marks: 14 },
+  { name: "Suprana Thapa", rollNo: 359, marks: 15 },
 ];
 let setupResult = () => {
   let inputVal = document.querySelector("input").value;
