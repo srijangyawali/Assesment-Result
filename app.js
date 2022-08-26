@@ -12,7 +12,7 @@ const data = [
   { name: "Kabita Kumari Sah", rollNo: 347, marks: 10 },
   { name: "Nisha Aryal", rollNo: 350, marks: 13 },
   { name: "Arun Chaudhary", rollNo: 363, marks: 11 },
-  { name: "Ravi Kr. Chaudhary", rollNo: 360, marks: 14 },
+  { name: "Ravi Kr. Chaudhary", rollNo: 366, marks: 14 },
   { name: "Sujit Kr. Yadav", rollNo: 367, marks: 11 },
   { name: "Barsha Kandel", rollNo: 339, marks: 16 },
   { name: "Nisha Khakurel", rollNo: 351, marks: 14 },
