@@ -31,6 +31,7 @@ const data = [
   { name: "Madan Pokhrel", rollNo: 348, marks: 13 },
   { name: "Rojina Shrestha", rollNo: 356, marks: 10 },
   { name: "Suprana Thapa", rollNo: 359, marks: 15 },
+  { name: "Sushma Sunar", rollNo: 361, marks: 12},
 ];
 let setupResult = () => {
   let inputVal = document.querySelector("input").value;
